@@ -1,0 +1,8 @@
+# put this in '.streamlit' folder 
+
+[theme]
+primaryColor="#F63366"
+backgroundColor="#293745"
+secondaryBackgroundColor="#676a71"
+textColor="white"
+# font="Sans-Serif,monospace"
